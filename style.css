@@ -15,7 +15,7 @@
 }
 /* .hero section  */
 .hero-section{
-  background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.40)), url("/image/em-bg.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.40)), url("image/em-bg.jpg");
   background-position: top bottom;
   background-size: cover;
   background-repeat: no-repeat;
